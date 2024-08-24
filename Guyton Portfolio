@@ -7,14 +7,23 @@
 <body>
 <h1>ROBIN GUYTON</h1>
 <p>Welcome to the official webpage of Robin Guyton. I am thrilled that you chose to look up my portfolio!</p>
+
+<u><b>BIO</b></u>
+<p>I was born in Compton, CA.</p>
 <p>I served in the US Navy for 7 years, from January 2010 to March 2017.</p>
+<p>I am currently an Aircraft Machinist at NAS Lemoore.</p>
+
+
+<u><b>SKILLS</b></u>
 
 <p>Aircraft Machinist</p>
 <p>Conventional Lathe</p>
-<p>Mill</p>
+<p>Conventional Mill</p>
 <p>Grinders</p>
 <p>Aircraft Evaluation</p>
 <p>Quality Assurance</p>
+
+
 
 </body>
 </html>
