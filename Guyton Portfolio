@@ -8,13 +8,13 @@
 <h1>ROBIN GUYTON</h1>
 <p>Welcome to the official webpage of Robin Guyton. I am thrilled that you chose to look up my portfolio!</p>
 
-
+<!--WHERE YOU'RE FROM, WHERE YOU'VE BEEN, WHERE YOU ARE-->
 <u><b>BIO</b></u>
 <p>I was born in Compton, CA.</p>
 <p>I served in the US Navy for 7 years, from January 2010 to March 2017.</p>
 <p>I am currently an Aircraft Machinist at NAS Lemoore.</p>
 
-
+<!--ADD SKILLS YOU USE TO PERFORM YOUR JOB, UNFORTUNATELY THERE ARE NO IT RELATED SKILLS, YET...-->
 <u><b>SKILLS</b></u>
 
 <p>Aircraft Machinist</p>
@@ -24,6 +24,8 @@
 <p>Aircraft Evaluation</p>
 <p>Quality Assurance</p>
 
+
+<!--ENSURE TO ADD 3 PROJECTS!-->
 <u><b>PROJECTS</b></u>
 
 <b><p>F-16 Main Landing Gear Repair</p></b>
