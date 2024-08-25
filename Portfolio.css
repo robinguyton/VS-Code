@@ -1,0 +1,13 @@
+/*Stylesheet for Guyton Portfolio. Author Robin Guyton*/
+
+/*********************************************************
+* Description: Primary Style Sheet for Robin Guyton's Portfolio
+* Author: Robin Guyton
+*********************************************************/
+
+body {
+    background-color: aqua;
+
+    h1 {font-style: italic;}
+
+}
