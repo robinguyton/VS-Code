@@ -6,6 +6,13 @@
 
 <style>
     body {background-color: antiquewhite;}
+    footer {text-align: center;
+        padding: 3px;
+        background-color: azure;
+        color: black;
+        border-radius: 50px;
+        height: 100px
+    }
 </style>
 </head>
 <body>
