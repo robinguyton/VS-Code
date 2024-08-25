@@ -5,6 +5,7 @@
 <title>ROBIN GUYTON</title>
 </head>
 <body>
+
 <h1>ROBIN GUYTON</h1>
 <p>Welcome to the official webpage of Robin Guyton. I am thrilled that you chose to look up my portfolio!</p>
 
@@ -34,9 +35,16 @@
 <b><p>F/A-18 Missile Launch Pod Repair</p></b>
 <p>Removed corrosion by reaming forward missile rib bore and installing oversized bushing.</p>
 
-<b><p>Trailing Edge Flap Hinge</p></b>
+<b><p>F/A-18 Trailing Edge Flap Hinge</p></b>
 <p>Coordinated with Sheet Metal Mechanics to utilize milling machine to precisely ream and countersink hinge fastener holes.</p>
 
 
 </body>
+
+    <footer>CONTACT:
+        <p>EMAIL: RobinishaGuyton@My.WHCCD.EDU</p>
+        <p>GITHUB: www.github.com/robinguyton</p>
+        <p>Copyright 2024 RGUYTON. All rights reserved.</p>
+    </footer>
+
 </html>
