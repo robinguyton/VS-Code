@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>ROBIN GUYTON</title>
+
 <style>
     body {background-color: antiquewhite;}
 </style>
@@ -44,10 +45,11 @@
 
 </body>
 
-    <footer>CONTACT:
+    <footer><u><b>CONTACT:</b></u>
+
         <p>EMAIL: RobinishaGuyton@My.WHCCD.EDU</p>
         <p>GITHUB: www.github.com/robinguyton</p>
-        <p>Copyright 2024 RGUYTON. All rights reserved.</p>
+        
     </footer>
 
 </html>
