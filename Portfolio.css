@@ -5,9 +5,7 @@
 * Author: Robin Guyton
 *********************************************************/
 
-body {
-    background-color: aqua;
+<style>
+    body {background-color: antiquewhite;}
+</style>
 
-    h1 {font-style: italic;}
-
-}
